@@ -168,8 +168,8 @@ You must submit the following:
 
 ```
 source-code: https://github.com/mr-poojit/kpa_api
-postman-collection: https://drive.google.com/poojit_kpa_postman.json
-demo-video: https://drive.google.com/poojit_kpa_demo.mp4
+postman-collection: https://drive.google.com/drive/folders/1LrYuv3xdH8t2DyYtv32YrjI5ccnpM-PV?usp=sharing
+demo-video: https://www.loom.com/share/3935213b4233407c915b7476f0612a22?sid=4d30b203-06c7-48d6-9a69-e1f4e9ab47b6
 ```
 
 ---
